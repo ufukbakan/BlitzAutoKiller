@@ -6,4 +6,3 @@ C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Release\Bli
 C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Release\BlitzAutoKiller.csproj.CoreCompileInputs.cache
 C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Release\BlitzAutoKiller.exe
 C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Release\BlitzAutoKiller.pdb
-C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Release\BlitzAutoKiller.csprojAssemblyReference.cache
