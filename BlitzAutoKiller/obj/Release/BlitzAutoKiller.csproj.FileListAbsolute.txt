@@ -6,3 +6,9 @@ C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Release\Bli
 C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Release\BlitzAutoKiller.csproj.CoreCompileInputs.cache
 C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Release\BlitzAutoKiller.exe
 C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Release\BlitzAutoKiller.pdb
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\bin\Release\BlitzAutoKiller.exe.manifest
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\bin\Release\BlitzAutoKiller.application
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Release\BlitzAutoKiller.csprojAssemblyReference.cache
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Release\BlitzAutoKiller.TrustInfo.xml
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Release\BlitzAutoKiller.exe.manifest
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Release\BlitzAutoKiller.application
