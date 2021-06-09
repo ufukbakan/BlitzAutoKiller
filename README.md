@@ -1,5 +1,5 @@
 # [Download](https://github.com/ufukbakan/BlitzAutoKiller/releases/download/1.0.1/BlitzAutoKiller.zip) | [İndir](https://github.com/ufukbakan/BlitzAutoKiller/releases/download/1.0.1/BlitzAutoKiller.zip)
-# BlitzAutoKiller
+# BlitzAutoKiller ![image](https://user-images.githubusercontent.com/44516872/121327671-522ed400-c91c-11eb-9b20-dfda71b3c267.png)
 ## Save memory while using blitz
 ### Highly recommended for 4GB RAM gamers
 
