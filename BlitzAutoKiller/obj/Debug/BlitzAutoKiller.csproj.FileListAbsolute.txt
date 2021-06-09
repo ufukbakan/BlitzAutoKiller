@@ -1,0 +1,9 @@
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\bin\Debug\BlitzAutoKiller.exe
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\bin\Debug\BlitzAutoKiller.pdb
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Debug\BlitzAutoKiller.csprojAssemblyReference.cache
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Debug\BlitzAutoKiller.Properties.Resources.resources
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Debug\BlitzAutoKiller.csproj.GenerateResource.cache
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Debug\BlitzAutoKiller.csproj.CoreCompileInputs.cache
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Debug\BlitzAutoKiller.exe
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\obj\Debug\BlitzAutoKiller.pdb
+C:\Users\Okyanuxian\source\repos\BlitzAutoKiller\BlitzAutoKiller\bin\Debug\BlitzAutoKiller.exe.config
