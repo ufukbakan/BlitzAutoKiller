@@ -216,11 +216,11 @@ nav.hidden{
 #safety-block a{
     text-decoration: underline;
 }
-#how-to-use{
+.how{
     padding: 1em;
     font-size: .75em;
 }
-#how-to-use h2{
+.how h2{
     text-align: center;
 }
 
