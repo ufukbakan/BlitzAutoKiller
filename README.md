@@ -6,7 +6,7 @@
 The system tray application to close software Blitz (aka Blitz App, see blitz.gg) while playing a match in League of Legends, then restart after the game.
 Purpose of the application is setting Runes and getting information about teammates before the match starts, then killing blitz to free up memory.
 
-### Save up to 300 MB memory
+### Save up to 450 MB memory
 ### You can not use ingame overlays due to Blitz is killed
 ### Still you can access ingame item sets
 
@@ -19,7 +19,7 @@ Start BlitzAutoKiller before or after starting blitz. It will automatically dete
 
 Uygulamanın amacı maç başladıktan sonra Blitz uygulamasını kapatmak ve maç sona erdiğinde tekrar açmaktır. Bu sayede rünlerinizi ayarlayıp takımınızdaki oyuncular hakkında bilgi edindikten sonra bellekten tasarruf sağlayarak oyun içinde lagı azaltabilirsiniz.
 
-### 300MB'a kadar RAM tasarrufu sağlar
+### 450 MB'a kadar RAM tasarrufu sağlar
 ### Blitz kapatıldığı için malesef oyun içi arayüzleri kullanamazsınız
 ### Eşya setlerinize halen erişebilirsiniz
 
