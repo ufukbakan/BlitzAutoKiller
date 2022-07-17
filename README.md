@@ -26,7 +26,4 @@ Uygulamanın amacı maç başladıktan sonra Blitz uygulamasını kapatmak ve ma
 ## Nasıl kullanılır
 BlitzAutoKiller'ı, Blitz'i açtıktan önce veya sonra çalıştırabilirsiniz. Otomatik olarak LoL ve Blitz uygulamalarının çalışıp çalışmadığı tespit edilecektir.
 
-Cpu usage: min 0% (most of time), max 1% (1% of time)
-Memory usage: min 6MB, max 9MB
-
 ![image](https://user-images.githubusercontent.com/44516872/121326940-aa190b00-c91b-11eb-9ce9-5900d2b62e85.png)
