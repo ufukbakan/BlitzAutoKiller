@@ -10,8 +10,6 @@ namespace BlitzAutoKiller
         private NotifyIcon trayIcon;
         private string blitzpath;
         private bool isBlitzRunning, isLeagueRunning, isClientRunning;
-        private ManagementEventWatcher startWatch, stopWatch;
-
         public TrayApp()
         {
             // Initialize Components
@@ -35,13 +33,15 @@ namespace BlitzAutoKiller
             };
 
             trayIcon.MouseClick += TrayIcon_MouseClick;
-            blitzpath = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + "\\Programs\\Blitz\\Blitz.exe";
+            blitzpath =
+                (new System.Text.StringBuilder()).Append(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData))
+                .Append("\\Programs\\Blitz\\Blitz.exe").ToString();
 
-            startWatch = new ManagementEventWatcher(
+            ManagementEventWatcher startWatch = new ManagementEventWatcher(
                 new WqlEventQuery("SELECT * FROM Win32_ProcessStartTrace"));
             startWatch.EventArrived += new EventArrivedEventHandler(ProcessTrigger);
             startWatch.Start();
-            stopWatch = new ManagementEventWatcher(
+            ManagementEventWatcher stopWatch = new ManagementEventWatcher(
               new WqlEventQuery("SELECT * FROM Win32_ProcessStopTrace"));
             stopWatch.EventArrived += new EventArrivedEventHandler(ProcessTrigger);
             stopWatch.Start();
@@ -100,8 +100,8 @@ namespace BlitzAutoKiller
                     killBlitz();
                 }
             }
-            System.Threading.Thread.Sleep(3000);
-            GC.Collect(0, GCCollectionMode.Forced);
+
+            GC.Collect(0, GCCollectionMode.Optimized);
         }
 
         private void Exit_Click(object sender, EventArgs e)
@@ -111,11 +111,18 @@ namespace BlitzAutoKiller
 
         void Exit(object sender, EventArgs e)
         {
-            startWatch.Stop();
-            stopWatch.Stop();
-            // Hide tray icon, otherwise it will remain shown until user mouses over it
-            trayIcon.Visible = false;
-            Application.Exit();
+            try
+            {
+                //startWatch.Stop();
+                //stopWatch.Stop();
+                // Hide tray icon, otherwise it will remain shown until user mouses over it
+                trayIcon.Visible = false;
+            }
+            catch {}
+            finally
+            {
+                Application.Exit();
+            }
         }
     }
 }
